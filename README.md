@@ -31,7 +31,7 @@ samples, guidance on mobile development, and a full API reference.
          width="350" height="500">
             </td>
             <td>
-               <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/be3cfb72-cd2c-4cef-886c-b22c3d70a1a5" 
+               <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/923d6773-0695-4f05-941f-71eb4f150722" 
          width="350" height="500">
             </td>
         </tr>
@@ -43,7 +43,7 @@ samples, guidance on mobile development, and a full API reference.
             </td>
             <td>
                        
- <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/53b007c9-8eb1-44f7-892d-f0dcb07aa8d2" 
+ <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/22662f60-e740-4c12-a09b-341313b0c6fa" 
          width="350" height="500">  
             </td>
             <td>
@@ -61,6 +61,8 @@ samples, guidance on mobile development, and a full API reference.
     </table>
 </body>
 </html>
+![screengrab-20230725-224547]()
+![screengrab-20230725-224808]()
 
 
          
