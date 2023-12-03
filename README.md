@@ -54,7 +54,7 @@ samples, guidance on mobile development, and a full API reference.
         <tr>
             <td>
                <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/9d0b2439-83b3-4657-86ad-d97869b10dc9" 
-         width="350" height="500">
+         width="200" height="500">
             </td>
               </tr>
               </table>
