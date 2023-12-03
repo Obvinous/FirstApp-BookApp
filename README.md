@@ -64,11 +64,7 @@ samples, guidance on mobile development, and a full API reference.
 </html>
 
 
-https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/1bea136f-2451-4ac0-8700-4d59fa67ed00
 
-         
-
-         ![Screen_Recording_20231203_125757 1]()
 
 
 
