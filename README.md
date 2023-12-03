@@ -22,22 +22,7 @@ samples, guidance on mobile development, and a full API reference.
     <h1>Screenshots</h1>
     <table>
 
-        <tr>
-            <td>
-                        
- <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/21b616c6-1da3-4e81-b2dd-1b5c290ceb09" 
-         width="350" height="500">
-            </td>
-            <td>
-                       
- <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/22662f60-e740-4c12-a09b-341313b0c6fa" 
-         width="350" height="500">  
-            </td>
-            <td>
-                 <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/22581afa-722f-4643-8683-95d8de1e0994" 
-         width="350" height="500">
-            </td>
-        </tr>
+        
         <tr>
             <td>
                <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/9d0b2439-83b3-4657-86ad-d97869b10dc9" 
