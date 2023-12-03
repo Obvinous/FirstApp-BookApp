@@ -21,8 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 <body>
     <h1>Screenshots</h1>
     <table>
-
-        
+       
         <tr>
             <td>
                <img src="https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/9d0b2439-83b3-4657-86ad-d97869b10dc9" 
@@ -34,11 +33,7 @@ samples, guidance on mobile development, and a full API reference.
 </html>
 
 
-https://github.com/Obvinous/FirstApp-BookApp/assets/140268164/1bea136f-2451-4ac0-8700-4d59fa67ed00
 
-         
-
-         ![Screen_Recording_20231203_125757 1]()
 
 
 
